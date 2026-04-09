@@ -1,5 +1,5 @@
 # RaytracerOld
-C++ Raytracer I did a while ago, almost exactly like in the Peter Shirely's book + ETA + Multi-Threading.
+C++ Raytracer I did a while ago, almost exactly like in the Peter Shirely's book + ETA
 
 **Baby Steps**
 ![blue gradient sphere with green background](https://github.com/Myzomi/RaytracerOld/blob/main/image.png)
